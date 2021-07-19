@@ -1,3 +1,7 @@
 hii greet from remote repo main branch
 hii greet from local repo feature branch
+<<<<<<< HEAD
 hii greet 
+=======
+hii greet from remote repo feature branch
+>>>>>>> 962ed97c167819bb6fbb2cd76d2543e68dcdd166
